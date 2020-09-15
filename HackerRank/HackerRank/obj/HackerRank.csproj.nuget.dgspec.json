@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/HackerRank.csproj": {}
+  },
+  "projects": {
+    "/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/HackerRank.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/HackerRank.csproj",
+        "projectName": "HackerRank",
+        "projectPath": "/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/HackerRank.csproj",
+        "packagesPath": "/Users/ThienLong/.nuget/packages/",
+        "outputPath": "/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/ThienLong/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

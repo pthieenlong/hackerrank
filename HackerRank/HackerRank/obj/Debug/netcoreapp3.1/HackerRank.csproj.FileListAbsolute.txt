@@ -1,0 +1,12 @@
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/bin/Debug/netcoreapp3.1/HackerRank.deps.json
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/bin/Debug/netcoreapp3.1/HackerRank.runtimeconfig.json
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/bin/Debug/netcoreapp3.1/HackerRank.runtimeconfig.dev.json
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/bin/Debug/netcoreapp3.1/HackerRank.dll
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/bin/Debug/netcoreapp3.1/HackerRank.pdb
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/Debug/netcoreapp3.1/HackerRank.csprojAssemblyReference.cache
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/Debug/netcoreapp3.1/HackerRank.AssemblyInfoInputs.cache
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/Debug/netcoreapp3.1/HackerRank.AssemblyInfo.cs
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/Debug/netcoreapp3.1/HackerRank.csproj.CoreCompileInputs.cache
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/Debug/netcoreapp3.1/HackerRank.dll
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/Debug/netcoreapp3.1/HackerRank.pdb
+/Volumes/External Disk/Studying/CSharp/HackerRank/HackerRank/obj/Debug/netcoreapp3.1/HackerRank.genruntimeconfig.cache
